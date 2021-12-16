@@ -1,0 +1,3 @@
+[submodule "StrokePreprocessingPipeline"]
+	path = StrokePreprocessingPipeline
+	url = https://github.com/npnl/StrokePreprocessingPipeline
