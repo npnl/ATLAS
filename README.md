@@ -1,7 +1,7 @@
 # ATLAS
 ## Anatomical Tracings of Lesions After Stroke - Release 3.0 
 * Preprint of ATLAS v3.0 paper (in preparation)
-* ATLAS v3.0 is comprised of a training dataset (n=1453), and a Generalizability Dataset with completely hidden test data (n=361).
+* ATLAS v3.0 is comprised of a training dataset (n=1453), and a Generalizability Dataset with completely hidden test data (n=362).
 * The training dataset (n=1453) has been released publicly.
 * Both the minimally preprocessed data in native space (brain extracted) and preprocessed datasets are archived in INDI (https://fcon_1000.projects.nitrc.org/indi/retro/atlas_download.html).
 * Hidden lesion segmentation masks from the Generalizability Dataset are only available to lesion segmentation challenges upon request.
