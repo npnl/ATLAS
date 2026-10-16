@@ -7,6 +7,12 @@
 * Hidden lesion segmentation masks from the generalizability dataset are only available to lesion segmentation challenges upon request.
 * The ATLAS v2.0 public release of the Training (n=655) and Validation Datasets (n=300) have been expanded upon and replaced by the ATLAS v3.0 dataset.
 * More information on our most recent ISLES '26 lesion segmentation challenge can be found here: https://isles-26.grand-challenge.org/
+* ## Lesion Tracing Training
+* A narrated walkthrough of the training material can be accessed on our YouTube channel: https://www.youtube.com/playlist?list=PLPqz6WxiWPVE
+* Our complete lesion tracing guidance document along with the neuroanatomy training slides can be accessed here: https://github.com/npnl/ATLAS/tree/master/Lesion%20Tracing%20Training
+* The corresponding imaging and mask data are divided into two sets, one for each stage of training, download them here:
+* [Set 1] : https://fcp-indi.s3.amazonaws.com/data/Projects/INDI/ATLAS/R3.0/training_set_1.zip
+* [Set 2] : https://fcp-indi.s3.amazonaws.com/data/Projects/INDI/ATLAS/R3.0/training_set_2.zip
 
 
 ## Anatomical Tracings of Lesions After Stroke - Release 2.0
